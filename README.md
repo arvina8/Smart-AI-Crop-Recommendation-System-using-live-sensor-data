@@ -1,2 +1,2 @@
-# Smart-AI-Crop-Recommendation-System-using-live-sensor-data
-NPK&lt; weather and soil humidity is fetched through live sensors and integrated into a machine learning model to recommend the suitable crop for cultivation 
+# Crop_recomendation
+Welcome to the repository for "Integrating AI and Data Science: Developing Robust Crop Recommendation Systems." This project aims to leverage advanced data science and machine learning techniques to develop a comprehensive crop recommendation system that can significantly enhance agricultural productivity and sustainability.
